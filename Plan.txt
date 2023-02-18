@@ -1,0 +1,19 @@
+
+The game will start asking for NAME. //AGE and GENDER//
+
+"Name your character:"
+
+Intro will follow:
+Bla-bla Bla-bla Bla-bla Bla-bla Bla-bla Bla-bla Bla-bla Bla-bla Bla-bla Bla-bla Bla-bla Bla-bla Bla-bla Bla-bla Bla-bla Bla-bla Bla-bla Bla-bla Bla-bla Bla-bla Bla-bla Bla-bla Bla-bla Bla-bla Bla-bla Bla-bla Bla-bla Bla-bla Bla-bla Bla-bla Bla-bla Bla-bla Bla-bla Bla-bla Bla-bla Bla-bla Bla-bla Bla-bla Bla-bla Bla-bla Bla-bla Bla-bla Bla-bla Bla-bla Bla-bla Bla-bla Bla-bla Bla-bla Bla-bla Bla-bla Bla-bla Bla-bla Bla-bla Bla-bla Bla-bla Bla-bla Bla-bla Bla-bla Bla-bla Bla-bla Bla-bla Bla-bla Bla-bla 
+
+You find yourself in front of a cave with a SMALL entrance. Will you go inside?
+- Type YES or NO
+
+You find yourself in front of a cave with a MEDIUM entrance. Will you go inside?
+- Type YES or NO
+
+You find yourself in front of a cave with a BIG entrance. Will you go inside?
+- Type YES or NO
+
+You find yourself in front of a cave with a HUDGE entrance. Do you dare go inside?
+- Type YES or NO

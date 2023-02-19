@@ -4,52 +4,18 @@ The game will start asking for a NAME.
 
 "Name your character:"
 
-- allow spaces
-- check for lenght
-- numbers and special characters
-
 --------------------------------------------- Part TWO ----------------------------------------------------------
 
-Intro will follow:
+Intro will follow.
 
-Bla-bla Bla-bla Bla-bla Bla-bla Bla-bla Bla-bla Bla-bla Bla-bla Bla-bla Bla-bla Bla-bla Bla-bla Bla-bla Bla-bla Bla-bla Bla-bla Bla-bla Bla-bla Bla-bla Bla-bla Bla-bla Bla-bla Bla-bla Bla-bla Bla-bla Bla-bla Bla-bla Bla-bla Bla-bla Bla-bla Bla-bla Bla-bla Bla-bla Bla-bla Bla-bla Bla-bla Bla-bla Bla-bla Bla-bla Bla-bla Bla-bla Bla-bla Bla-bla Bla-bla Bla-bla Bla-bla Bla-bla Bla-bla Bla-bla Bla-bla Bla-bla Bla-bla Bla-bla Bla-bla Bla-bla Bla-bla Bla-bla Bla-bla Bla-bla Bla-bla Bla-bla Bla-bla Bla-bla
-
- - get inspiration from chatGPT for small intro text
- 
 --------------------------------------------- Part THREE --------------------------------------------------------
 
-The game starts... the loop begins...
-
-You find yourself in front of a cave with a SMALL entrance. Will you go inside? // Easy Questions
-- Type YES or NO
-
-You find yourself in front of a cave with a MEDIUM entrance. Will you go inside? // Medium Questions
-- Type YES or NO
-
-You find yourself in front of a cave with a BIG entrance. Will you go inside? // Hard Questions
-- Type YES or NO
-
-You find yourself in front of a cave with a HUDGE entrance. Do you dare go inside? // BOSS Questions
-- Type YES or NO
+The game starts... the loop begins.
 
 --------------------------------------------- Part FOUR ---------------------------------------------------------
 
-The fight inside starts.
-
-- check current HP.
-- check monster HP.
-- check end HP.
-
-The fight ends.
-
-Check result
-- dead or alive
-- plus HP or minus HP
+The fight inside starts and ends.
 
 --------------------------------------------- Part FIVE ----------------------------------------------------------
 
-Outro:
-
-Bla-bla Bla-bla Bla-bla Bla-bla Bla-bla Bla-bla Bla-bla Bla-bla Bla-bla Bla-bla Bla-bla Bla-bla Bla-bla Bla-bla Bla-bla Bla-bla Bla-bla Bla-bla Bla-bla Bla-bla Bla-bla Bla-bla Bla-bla Bla-bla Bla-bla Bla-bla Bla-bla Bla-bla Bla-bla Bla-bla Bla-bla Bla-bla Bla-bla Bla-bla Bla-bla Bla-bla Bla-bla Bla-bla Bla-bla Bla-bla Bla-bla Bla-bla Bla-bla Bla-bla Bla-bla Bla-bla Bla-bla Bla-bla Bla-bla Bla-bla Bla-bla Bla-bla Bla-bla Bla-bla Bla-bla Bla-bla Bla-bla Bla-bla Bla-bla Bla-bla Bla-bla Bla-bla Bla-bla
-
- - get inspiration from chatGPT for small ending
+Outro.
